@@ -1,0 +1,17 @@
+.nav{
+     
+     margin: 10px;
+     display: inline-block;
+    
+}
+.navbar{
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration: none;
+   
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
